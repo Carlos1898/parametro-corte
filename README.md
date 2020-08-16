@@ -1,2 +1,2 @@
 # parametro-corte
-Java e XML para cálculo peças por hora
+Java e XML para cálculo deparametrosderte
